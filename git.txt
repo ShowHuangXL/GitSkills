@@ -1,2 +1,4 @@
-123456
 Git is a free software.
+User: No.1 changed this file.
+User: No.2 changed this file.
+2016-05-10
